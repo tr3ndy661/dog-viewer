@@ -11,6 +11,8 @@
     margin: 0 auto; 
     display: grid;
     place-items: center; 
+    margin-top: 10px;
+
 }
 #getDog:hover {
     cursor: pointer;
@@ -20,4 +22,13 @@
     display: grid;
     place-items: center; 
     height: 50vh;
+}
+#imageContainer {
+    display: grid;
+    place-items: center; 
+    height: 50vh;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
 }
